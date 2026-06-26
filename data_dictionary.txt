@@ -1,0 +1,9 @@
+Dataset features dictionary for Used Car Price Prediction:
+
+- brand: Name of the car manufacturer (Toyota, BMW, Ford, Honda)
+- model year: Production year of the car (Integer)
+- mileage: Total distance driven by the vehicle (Float)
+- fuel_type: Energy source utilized (Petrol, Diesel, Hybrid, Electric)
+- transmission: Gearbox mechanism type (Automatic, Manual)
+- engine_size: Engine volume displacement in liters (Float)
+- car_price: Final market price of the car (Target Label, Float)
